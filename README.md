@@ -4,7 +4,7 @@
 <a href='http://keblu.github.io/MSGARCH/'><img src='hexmsgarch_small.png' align="right"  height="120"/></a>
  
 More about `MSGARCH` available at [http://keblu.github.io/MSGARCH/](http://keblu.github.io/MSGARCH/).
-
+ 
 ## Please cite the package in publications!
 
 By using `MSGARCH` you agree to the following rules: 
